@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "34577361949",
+    "project_id": "flutterinstagramcopy",
+    "storage_bucket": "flutterinstagramcopy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34577361949:android:f179416909ae5c4a106af4",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34577361949-i2clvmqod3r27742cjbnnu0v7nai1p3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram_clone",
+            "certificate_hash": "3e705bb4233b86b1a8251f195cafe250f1c60a12"
+          }
+        },
+        {
+          "client_id": "34577361949-tc3esf87k3ouhfc2okh9c1ntejan245p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBhI2s3nQuauDoZDhlfA9WJA7emg4DbHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34577361949-tc3esf87k3ouhfc2okh9c1ntejan245p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
